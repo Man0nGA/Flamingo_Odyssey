@@ -1,0 +1,9 @@
+.mono/
+data_*/
+.venv/
+__pycache__/
+.idea/
+pygame/
+test_place.py
+saveops.py
+Game/config.json
